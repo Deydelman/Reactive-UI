@@ -1,2 +1,1 @@
-# CH03-Typescript
-# Reactive-UI
+Reactive UI
